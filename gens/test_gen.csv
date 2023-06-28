@@ -1,0 +1,7 @@
+[GENOTYPE]
+ncells = 1
+kgrowth = 10.0
+gmax = 1.0
+kdet = 0.5
+kmc = 1
+zmc = 1.01
